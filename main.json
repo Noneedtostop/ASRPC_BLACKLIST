@@ -1,1 +1,4 @@
-[7166407580, 1059450618]
+[
+    { "UserId": 7166407580, "Reason": "Exploiting" },
+    { "UserId": 1059450618, "Reason": "Game Disrespect" }
+]
